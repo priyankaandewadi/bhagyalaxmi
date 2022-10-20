@@ -9,3 +9,6 @@ This tutorial teaches you GitHub essential like repositories,branches,commits,an
   2) start and manage a new branch
   3) make a changes to a file and push them to GitHub as commits
   4) open and merge a pull request 
+
+###License
+The Apache 2.0 license allows software developers to alter the source code of existing software's source code,copy the original source code or update the source code.
